@@ -1,0 +1,6 @@
+afinn==0.1
+beautifulsoup4==4.11.1
+itemadapter==0.7.0
+pandas==1.5.2
+scikit_learn==1.2.0
+Scrapy==2.7.1
